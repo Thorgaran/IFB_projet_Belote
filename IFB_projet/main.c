@@ -3,7 +3,7 @@
 int main(int argc, char *argv[])
 {
     /* DEBUG ET TEST DES FONTIONS */
-    /*printf("Voici notre magifique jeu de belote !!\n");
+    /*printf("Voici notre magnifique jeu de belote !!\n");
     afficheMenuPrincipal();*/
     Carte pli[4];
 
@@ -33,7 +33,7 @@ int main(int argc, char *argv[])
 
 
     /*afficheInterfacePli(pli, pli, pseudo, pli, contrat, "coucou");*/
-    /*Pour voir la liste des caracère que on peut utliser
+    /*Pour voir la liste des caracÃ¨re que on peut utliser
     for (int i = -127; i <=127; i++){
         printf(" %d-->%c\n", i,i);
     }*/
