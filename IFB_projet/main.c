@@ -33,7 +33,7 @@ int main(int argc, char *argv[])
 
 
     /*afficheInterfacePli(pli, pli, pseudo, pli, contrat, "coucou");*/
-    /*Pour voir la liste des caracère que on peut utliser
+    /*Pour voir la liste des caractères que on peut utliser
     for (int i = -127; i <=127; i++){
         printf(" %d-->%c\n", i,i);
     }*/
